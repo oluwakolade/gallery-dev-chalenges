@@ -50,7 +50,7 @@ h3 {
 button {
   background: #e5e5e5;
   border: none;
-  width: auto;
+  width: 100%;
   padding: 0.2rem 0.7rem;
   cursor: pointer;
   border-radius: 12px;
